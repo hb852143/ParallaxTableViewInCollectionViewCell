@@ -1,1 +1,3 @@
 # ParallaxTableViewInCollectionViewCell
+
+仿新聞內頁視差滑動
