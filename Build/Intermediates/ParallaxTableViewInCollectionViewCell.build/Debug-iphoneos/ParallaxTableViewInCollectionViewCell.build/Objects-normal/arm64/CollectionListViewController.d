@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/user/Dropbox/ParallaxTableViewInCollectionViewCell/ParallaxTableViewInCollectionViewCell/CollectionListViewController.m \
+  /Users/user/Dropbox/ParallaxTableViewInCollectionViewCell/ParallaxTableViewInCollectionViewCell/CollectionListViewController.h \
+  /Users/user/Dropbox/ParallaxTableViewInCollectionViewCell/ParallaxTableViewInCollectionViewCell/ItemCell.h \
+  /Users/user/Dropbox/ParallaxTableViewInCollectionViewCell/ParallaxTableViewInCollectionViewCell/CollectionPageViewController.h
